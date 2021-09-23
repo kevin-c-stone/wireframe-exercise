@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    align-items: center;
 
     
 }
@@ -68,6 +69,7 @@ main {
     width: 250px;
     height: 500px;
     display: inline-block;
+    padding-left: 20px;
 
 }
 
