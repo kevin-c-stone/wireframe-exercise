@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+
+    
+}
+
+.logo-image {
+    display: inline-block;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.navbar {
+    display: inline-block;
+    padding-bottom: 0px;
+    position: relative;
+}
+
+.button-nav {
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 0px;
+    object-position: top;   
+}
+
+#button-one {
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+#button-two {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#button-three {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#button-four {
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+
+
+.hero-image {
+    padding: 20px;
+}
+
+.sub-banner {
+    padding: 20px;
+}
+
+main {
+    height: auto;
+    padding: 20px, 100px;
+}
+
+.featured-banner {
+    display: inline-block;
+    padding: 20px;
+}
+
+.card {
+    width: 250px;
+    height: 500px;
+    display: inline-block;
+
+}
+
+.card-body {
+    height: 400px;
+    width: 500px;
+    overflow: scroll;
+}
+
+.card-header h3 {
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+}
+
+.card-button {
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-button:hover {
+    background-color: #696969;
+    color: white;
+}
+
+footer {
+    height: 100px;
+    width: 100vw;
+    background-color: dimgrey;
+    margin: 20px;
+}
+
